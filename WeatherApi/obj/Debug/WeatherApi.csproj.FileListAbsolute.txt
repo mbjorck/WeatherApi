@@ -1,0 +1,13 @@
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\obj\Debug\WeatherApi.csprojAssemblyReference.cache
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\obj\Debug\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\WeatherApi.exe.config
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\WeatherApi.exe
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\WeatherApi.pdb
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\obj\Debug\WeatherApi.csproj.CopyComplete
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\obj\Debug\WeatherApi.exe
+C:\Users\mB\source\repos\WeatherApi\WeatherApi\obj\Debug\WeatherApi.pdb
